@@ -1,0 +1,11 @@
+.header__subtitle {
+  width: 388px;
+  line-height: 25px; /* Высота строки */
+  font-size: 18px; /* Размер шрифта */
+  font-weight: 400;
+  position: absolute;
+  bottom: 30px;
+  left: 64px;
+  color: #000;
+  z-index: 0;
+}

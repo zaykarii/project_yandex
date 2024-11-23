@@ -1,0 +1,11 @@
+.header {
+  height: 100vh;
+  min-height: 600px;
+  max-height: 756px;
+  background-color: #f2f2f2;
+  display: flex; /* Превращаем контейнер в flex-контейнер */
+  position: relative; /* Для наложения */
+  justify-content: flex-start; /* Выравниваем по горизонтали влево */
+  align-items: center; /* Вертикальное центрирование */
+  overflow: hidden;
+}

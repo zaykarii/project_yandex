@@ -1,0 +1,5 @@
+.logo_place_header {
+  position: absolute; /* Абсолютное позиционирование */
+  top: 30px; /* Отступ сверху */
+  left: 64px; /* Отступ слева */
+}

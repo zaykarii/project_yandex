@@ -1,0 +1,7 @@
+.two-columns {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto; /* Центрируем блок по горизонтали */
+  width: 80%; /* Ширина блока (можно настроить) */
+  position: relative; /* Для корректного позиционирования элементов внутри */
+}

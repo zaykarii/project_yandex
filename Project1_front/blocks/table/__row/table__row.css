@@ -1,0 +1,5 @@
+.table__row {
+  display: flex; /* Используем Flexbox для строк */
+  width: 100%; /* Ширина строки */
+  flex: 1;
+}

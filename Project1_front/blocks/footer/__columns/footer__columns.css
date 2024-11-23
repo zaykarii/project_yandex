@@ -1,0 +1,11 @@
+.footer__columns {
+  display: flex;
+  flex-basis: 711px;
+  min-height: 250px;
+  justify-content: space-between;
+  margin: 0 auto; /* Центрируем блок по горизонтали */
+  width: 90%; /* Ширина блока (можно настроить) */
+  position: relative;
+  padding-top: 60px;
+  margin-bottom: 40px;
+}
